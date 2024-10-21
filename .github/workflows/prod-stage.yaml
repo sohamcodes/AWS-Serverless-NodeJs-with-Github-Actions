@@ -25,4 +25,4 @@ jobs:
     - name: Install dependencies
       run: yarn install
     - name: Deploy
-      run: npm run deploy
+      run: yarn run deploy

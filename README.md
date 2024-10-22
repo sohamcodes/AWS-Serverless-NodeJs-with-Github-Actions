@@ -18,7 +18,11 @@ Tech Stack used:
 NodeJs
 AWS - Lambda, API Gateway, IAM Roles & Policies 
 Database - PostgreSQL NeonDB (Serverless) 
-GitHub Actions - Automated deployment of deployment 
+GitHub Actions - Automated deployment of deployment
+
+# Deployment of API in production environment
+![image](https://github.com/user-attachments/assets/0cc51f17-e355-4b0d-a7a5-15d6bc123292)
+
 
 
 # Serverless Framework Node Express API on AWS

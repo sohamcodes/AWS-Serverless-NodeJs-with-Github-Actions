@@ -27,6 +27,7 @@ GitHub Actions - Automated deployment of deployment
 ![image](https://github.com/user-attachments/assets/d50f080e-0956-4b00-b809-bad677dcca69)
 
 # GET Method of API
+![image](https://github.com/user-attachments/assets/20d05388-390d-4eee-8dd1-f20cf3d037dd)
 
 
 # Serverless Framework Node Express API on AWS

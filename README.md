@@ -11,8 +11,12 @@ authorName: 'Serverless, Inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
-# Project Description 
-This project looks at developing and deploying a simple Node Express API service running on AWS Lambda using the Serverless Framework. The APIs are connected to a serverless database (NeonDB) where a very simple schema is created. 
+# Project Description/Objectives:  
+1. This project looks at developing and deploying a simple Node Express API service running on AWS Lambda using the Serverless Framework.
+2. Dev and Prod environments were created to create separation between Non-prod and Prod logics and for testing purposes. 
+3. The API is connected to a serverless database (NeonDB). 
+4. Drizzle ORM is used to create the database schema via utilizing Javascript. This allows for creation of Schema without utilizing SQL Schema. 
+5. NeonDB (Serverless) allows for mutiple branches of DB. 
 
 Architture: 
 API Gateway -- > Lambda --> NeonDB (Serverless) 

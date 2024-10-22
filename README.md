@@ -12,7 +12,7 @@ authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
 # Project Description 
-This project looks at developing and deploying a simple Node Express API service running on AWS Lambda using the Serverless Framework. The APIs are connected to a serverless database (NeonDB). 
+This project looks at developing and deploying a simple Node Express API service running on AWS Lambda using the Serverless Framework. The APIs are connected to a serverless database (NeonDB) where a very simple schema is created. 
 
 Architture: 
 API Gateway -- > Lambda --> NeonDB (Serverless) 
@@ -22,7 +22,8 @@ Tech Stack used:
 2. AWS - Lambda, API Gateway, IAM Roles & Policies, Secrets Manager 
 3. Database - PostgreSQL NeonDB (Serverless) 
 4. GitHub Actions - Automated deployment of deployment
-5. API Testing: POSTMAN 
+5. Drizzle ORM - Database Schema creation 
+6. API Testing: POSTMAN 
 
 # Deployment of API in production environment
 ![image](https://github.com/user-attachments/assets/0312955c-5c95-4976-a303-5a1bd3b3eddb)

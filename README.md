@@ -19,10 +19,10 @@ API Gateway -- > Lambda --> NeonDB (Serverless)
 
 Tech Stack used: 
 1. NodeJs
-2. AWS - Lambda, API Gateway, IAM Roles & Policies 
-Database - PostgreSQL NeonDB (Serverless) 
-GitHub Actions - Automated deployment of deployment
-API Testing: POSTMAN 
+2. AWS - Lambda, API Gateway, IAM Roles & Policies, Secrets Manager 
+3. Database - PostgreSQL NeonDB (Serverless) 
+4. GitHub Actions - Automated deployment of deployment
+5/ API Testing: POSTMAN 
 
 # Deployment of API in production environment
 ![image](https://github.com/user-attachments/assets/0312955c-5c95-4976-a303-5a1bd3b3eddb)

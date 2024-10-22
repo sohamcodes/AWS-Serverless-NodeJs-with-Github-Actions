@@ -22,7 +22,7 @@ Tech Stack used:
 2. AWS - Lambda, API Gateway, IAM Roles & Policies, Secrets Manager 
 3. Database - PostgreSQL NeonDB (Serverless) 
 4. GitHub Actions - Automated deployment of deployment
-5/ API Testing: POSTMAN 
+5. API Testing: POSTMAN 
 
 # Deployment of API in production environment
 ![image](https://github.com/user-attachments/assets/0312955c-5c95-4976-a303-5a1bd3b3eddb)

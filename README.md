@@ -23,7 +23,10 @@ GitHub Actions - Automated deployment of deployment
 # Deployment of API in production environment
 ![image](https://github.com/user-attachments/assets/0312955c-5c95-4976-a303-5a1bd3b3eddb)
 
+# POST Method of API
+![image](https://github.com/user-attachments/assets/d50f080e-0956-4b00-b809-bad677dcca69)
 
+# GET Method of API
 
 
 # Serverless Framework Node Express API on AWS

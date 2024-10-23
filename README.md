@@ -39,6 +39,10 @@ Tech Stack used:
 # GET Method of API
 ![image](https://github.com/user-attachments/assets/20d05388-390d-4eee-8dd1-f20cf3d037dd)
 
+# GITHUB Actions Automated Prod Deployment
+![image](https://github.com/user-attachments/assets/9f99cb1e-a165-4bbf-a3ad-0b7d2b4a6959)
+
+
 
 # Serverless Framework Node Express API on AWS
 

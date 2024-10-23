@@ -23,6 +23,7 @@ provider:
             - "ssm:GetParametersByPath"
             - "ssm:GetParameterHistory"
             - "ssm:DescribeParameters"
+            - "s3:*"
 
 functions:
   api:

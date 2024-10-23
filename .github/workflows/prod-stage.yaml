@@ -25,10 +25,6 @@ jobs:
         cache: 'npm'
     - name: Install dependencies
       run: npm install
-    - name: serverless login
-      run: serverless login
-      env:
-        SERVERLESS_ACCESS_KEY: ${{ secrets.SERVERLESS_ACCESS_KEY }} 
     - name: Deploy to Production
       run: serverless deploy --stage prod --region us-east-2
 

@@ -1,4 +1,5 @@
 # "org" ensures this Service is used with the correct Serverless Framework Access Key.
+# "org" ensures this Service is used with the correct Serverless Framework Access Key.
 org: sohamroks
 # "app" enables Serverless Framework Dashboard features and sharing them with other Services.
 app: nodejs-practice
@@ -22,7 +23,9 @@ provider:
             - "ssm:GetParametersByPath"
             - "ssm:GetParameterHistory"
             - "ssm:DescribeParameters"
-        
+  enterprise:
+    disabled: true
+
 functions:
   api:
     handler: src/index.handler

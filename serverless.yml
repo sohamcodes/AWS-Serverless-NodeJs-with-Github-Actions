@@ -36,5 +36,13 @@ custom:
    exclude:
     - DATABASE_URL
 
+package:
+  exclude:
+    - node_modules/**
+    - .git/**
+    - .env.*
+    - tests/**
+    - README.md
+
 plugins:
   - serverless-offline

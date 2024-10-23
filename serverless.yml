@@ -23,8 +23,6 @@ provider:
             - "ssm:GetParametersByPath"
             - "ssm:GetParameterHistory"
             - "ssm:DescribeParameters"
-  enterprise:
-    disabled: true
 
 functions:
   api:

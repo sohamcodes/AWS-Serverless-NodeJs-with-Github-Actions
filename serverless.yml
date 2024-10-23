@@ -5,6 +5,7 @@ org: sohamroks
 app: nodejs-practice
 # "service" is the name of this project. This will also be added to your AWS resource names.
 service: serverless-nodejs-api
+frameworkVersion: '3'
 
 provider:
   name: aws
